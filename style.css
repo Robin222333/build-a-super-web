@@ -50,4 +50,46 @@
     color: white;
     border: none;
     border-radius: 5px;
+    cursor: pointer;
 }
+
+
+
+
+    .heading{
+        display: flex;
+        justify-content: center;
+        background-color: rgb(29, 2, 2);
+        color: aliceblue;
+        padding: 20px;
+    }
+    
+
+
+    .icon{
+        width: 70px;
+    }
+    .box{
+        width: 200px;
+        height: 200px;
+        text-align: center;
+        box-shadow: 4px 4px 15px gray;
+        padding: 15px;
+        background-color: black;
+        color: aliceblue;
+        margin-bottom: 20px;
+        margin-top: 15px;
+    }
+
+    .service-container{
+        display: flex;
+        justify-content:space-around;
+        align-items: center;
+        background-color: black;
+    }
+    .title-2{
+        text-align: center;
+        background-color: black;
+        color: white;
+    }
+        
